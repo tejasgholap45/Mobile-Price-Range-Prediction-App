@@ -3,7 +3,7 @@
 [![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-FF4B4B?logo=streamlit\&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)]()
 [![Machine Learning](https://img.shields.io/badge/ML-Classification-green)]()
-[![Model](https://img.shields.io/badge/Model-RandomForest%20/ XGBoost-orange)]()
+
 
 ---
 
