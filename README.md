@@ -11,7 +11,7 @@
 
 🚀 Try the live model here:
 👉 **[https://loanpredictionproject-tejasgholap.streamlit.app/](https://loanpredictionproject-tejasgholap.streamlit.app/)**
-*(Replace with correct Streamlit link for this mobile project once deployed.)*
+
 
 ---
 
